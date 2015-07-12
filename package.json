@@ -1,0 +1,27 @@
+{
+  "name": "uniquid-cli",
+  "description": "Unique ID generator",
+  "version": "0.0.0",
+  "keywords": [
+    "unique",
+    "id",
+    "identifier",
+    "cli"
+  ],
+  "repository": "andrepolischuk/uniquid-cli",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "uniquid": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "bin": {
+    "uniquid": "cli.js"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
+  "license": "MIT"
+}
