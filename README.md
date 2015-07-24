@@ -15,19 +15,11 @@ npm install --global uniquid-cli
 ```sh
 uniquid --help
 
-  Usage: uniquid [prefix]
+  Usage
+    uniquid [prefix]
 
-  Options:
-
-    -h, --help     output usage information
-    -V, --version  output the version number
-
-  Examples:
-
-    # Unique ID
+  Examples
     uniquid
-
-    # Prefixed unique ID
     uniquid hello
 ```
 

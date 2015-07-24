@@ -10,7 +10,7 @@
   ],
   "repository": "andrepolischuk/uniquid-cli",
   "dependencies": {
-    "commander": "^2.8.1",
+    "meow": "^3.3.0",
     "uniquid": "^1.1.3"
   },
   "devDependencies": {
