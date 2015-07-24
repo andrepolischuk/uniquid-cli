@@ -1,7 +1,5 @@
 #!/usr/bin/env node
-
 'use strict';
-
 var uniquid = require('uniquid');
 var program = require('commander');
 var pkg = require('./package');
