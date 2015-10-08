@@ -1,8 +1,8 @@
-# uniquid-cli
+# uniquid-cli [![Build Status][travis-image]][travis-url]
 
-  > Unique ID generator
+> Unique ID generator
 
-  [uniquid][uniquid] - API for this module
+[uniquid][uniquid] - API for this module
 
 ## Install
 
@@ -25,6 +25,9 @@ uniquid --help
 
 ## License
 
-  MIT
+MIT
+
+[travis-url]: https://travis-ci.org/andrepolischuk/uniquid-cli
+[travis-image]: https://travis-ci.org/andrepolischuk/uniquid-cli.svg?branch=master
 
 [uniquid]: https://github.com/andrepolischuk/uniquid
