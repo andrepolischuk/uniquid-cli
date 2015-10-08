@@ -1,7 +1,6 @@
 'use strict';
 var test = require('ava');
 var execFile = require('exec-file');
-var pkg
 
 test('should return version', function (t) {
   t.plan(2);
