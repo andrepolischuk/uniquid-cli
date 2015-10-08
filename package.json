@@ -14,13 +14,14 @@
     "uniquid": "^1.1.3"
   },
   "devDependencies": {
-    "mocha": "^2.2.5"
+    "ava": "^0.2.0",
+    "exec-file": "^0.1.2"
   },
   "bin": {
     "uniquid": "cli.js"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "node test.js"
   },
   "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
   "license": "MIT"
